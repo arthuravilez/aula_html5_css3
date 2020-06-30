@@ -1,0 +1,52 @@
+body{
+    margin: auto 200px;
+    font-family: sans-serif;
+}
+
+header {
+    margin-top: 100px;
+}
+
+h1, h2{
+    color: #47330e;
+
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 25;
+    background-color: #e7decd;
+    padding: 15px;
+
+}
+
+p {
+    font-size: 15px;
+}
+
+
+.img_padrao {
+    margin: 15px;
+    width: 300px;
+}
+
+.img_icone {
+    width: 30px;
+}
+
+.logo{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    color: white;
+    background:#47330e;
+    margin-right: 80%;
+    padding: 20px;
+    text-align: center;
+}
+
+footer{
+    margin-bottom: 100px;
+}
